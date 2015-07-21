@@ -1,4 +1,8 @@
 
+## Code Organize
+- [Why are MVC & TDD not employed more in game architecture?](http://gamedev.stackexchange.com/questions/3426/why-are-mvc-tdd-not-employed-more-in-game-architecture)
+- [Component · Decoupling Patterns · Game Programming Patterns](http://gameprogrammingpatterns.com/component.html#cutting-the-knot)
+
 ## Camera
 - [(GDC2015)The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub?embedded=true#h.kskmkvkk89rz)
 
