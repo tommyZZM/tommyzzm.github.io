@@ -1,5 +1,6 @@
 ## WebPack
 - [Fighting (and winning) Typescript for Webpack](https://medium.com/@bestander_nz/fighting-typescript-for-webpack-c5127b55ec86)
+- [フロントエンドでもES6構文使ってみる【webpack+babel-loader（旧6to5-loader）】](http://yutapon.hatenablog.com/entry/2015/02/09/090000)
 
 ## Gulp
 - [gulp offiscial demo](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
