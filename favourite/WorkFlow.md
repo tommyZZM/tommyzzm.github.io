@@ -1,4 +1,9 @@
+## Git
+- [你不一定知道的几个很有用的 Git 命令](http://www.java123.net/v/885177.html)
+- [10个很有用的高级Git命令](http://developer.51cto.com/art/201308/408029.htm)
+
 ## WebPack
+- [基于ES6，使用React、Webpack、Babel构建模块化JavaScript应用](http://www.csdn.net/article/2015-05-24/2824757-building-modular-javascript-applications-in-es6-with-react-webpack-and-babel?reload=1)
 - [Fighting (and winning) Typescript for Webpack](https://medium.com/@bestander_nz/fighting-typescript-for-webpack-c5127b55ec86)
 - [フロントエンドでもES6構文使ってみる【webpack+babel-loader（旧6to5-loader）】](http://yutapon.hatenablog.com/entry/2015/02/09/090000)
 
