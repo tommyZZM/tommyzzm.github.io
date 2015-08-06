@@ -1,6 +1,4 @@
-## Git
-- [你不一定知道的几个很有用的 Git 命令](http://www.java123.net/v/885177.html)
-- [10个很有用的高级Git命令](http://developer.51cto.com/art/201308/408029.htm)
+## [Git](https://github.com/tommyZZM/tommyzzm.github.io/shell-useful/Git.md)
 
 ## WebPack
 - [基于ES6，使用React、Webpack、Babel构建模块化JavaScript应用](http://www.csdn.net/article/2015-05-24/2824757-building-modular-javascript-applications-in-es6-with-react-webpack-and-babel?reload=1)

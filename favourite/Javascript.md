@@ -14,3 +14,6 @@
 
 ## Coding
 - [Cg（C for Graphic）标准函数库之数学函数与几何函数](http://blog.163.com/lee_shutong/blog/static/129435356200910224658750/)
+
+## Test&Auto
+- [PhantomJS快速入门教程](http://www.tuicool.com/articles/beeMNj/)([原文](http://www.woiweb.net/phantomjs-quick-use-tutorials.html))
