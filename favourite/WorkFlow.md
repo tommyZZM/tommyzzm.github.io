@@ -1,4 +1,4 @@
-## [Git](https://github.com/tommyZZM/tommyzzm.github.io/shell-useful/Git.md)
+## [Git](https://github.com/tommyZZM/tommyzzm.github.io/blob/master/shell-useful/Git.md)
 
 ## WebPack
 - [基于ES6，使用React、Webpack、Babel构建模块化JavaScript应用](http://www.csdn.net/article/2015-05-24/2824757-building-modular-javascript-applications-in-es6-with-react-webpack-and-babel?reload=1)
