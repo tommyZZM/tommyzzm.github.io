@@ -7,3 +7,4 @@
 
 ## Fulx
 - [Flux 傻瓜教程](http://zhuanlan.zhihu.com/FrontendMagazine/19900243)
+- [Async requests (AJAX) with React.js and Flux, revisited.](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
