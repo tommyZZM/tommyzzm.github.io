@@ -1,0 +1,1 @@
+- [树莓派爱好者|果壳小组](http://www.guokr.com/group/317/)
