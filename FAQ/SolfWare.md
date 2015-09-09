@@ -1,0 +1,2 @@
+ - [Visual Studio安装卡住怎么破?](http://stackoverflow.com/questions/28788574/visual-studio-2015-installer-hangs-during-install)
+ - []

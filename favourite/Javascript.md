@@ -4,6 +4,7 @@
 ## FP
 - [JavaScript 中的函数式编程实践](http://www.ibm.com/developerworks/cn/web/1006_qiujt_jsfunctional/)
 - [JS中的柯里化(currying)](http://www.zhangxinxu.com/wordpress/2013/02/js-currying/)
+- [函数的副作用](http://www.cnblogs.com/snandy/archive/2011/08/14/2137898.html)
 
 ## Concept
 - [shim和polyfill有什么区别?](http://www.cnblogs.com/ziyunfei/archive/2012/09/17/2688829.html)([原文](http://www.2ality.com/2011/12/shim-vs-polyfill.html))
