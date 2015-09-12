@@ -1,6 +1,7 @@
 ## AI
 
 [《Flocks，Herds and Schools： A Distributed Behavial Model》](http://www.macs.hw.ac.uk/~dwcorne/Teaching/Craig%20Reynolds%20Flocks,%20Herds,%20and%20Schools%20A%20Distributed%20Behavioral%20Model.htm)(Craig Reynolds 1987)
+[Social potential fields: A distributed behavioral control for Autonomous Robots](http://www.researchgate.net/profile/John_Reif/publication/222502987_Social_potential_fields_A_distributed_behavioral_control_for_autonomous_robots/links/00b7d51cc5a9f107b5000000.pdf)
 
 
 ## UI
