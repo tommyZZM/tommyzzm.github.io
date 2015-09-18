@@ -17,4 +17,6 @@
 - [commonmark](https://www.npmjs.com/package/commonmark) (MarkDown解析与渲染)
 - [marked](https://www.npmjs.com/package/marked) (MarkDown解析与渲染+1)
 
-###
+### 数学公式渲染
+
+- [KaTeX and MathJax Comparison Demo](http://www.intmath.com/cg5/katex-mathjax-comparison.php)
