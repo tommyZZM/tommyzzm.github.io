@@ -1,4 +1,4 @@
-## AI
+﻿## AI
 
 [《Flocks，Herds and Schools： A Distributed Behavial Model》](http://www.macs.hw.ac.uk/~dwcorne/Teaching/Craig%20Reynolds%20Flocks,%20Herds,%20and%20Schools%20A%20Distributed%20Behavioral%20Model.htm)(Craig Reynolds 1987)
 
@@ -7,3 +7,7 @@
 
 ## UI
 [Game UI Discoveries: What Players Want](http://www.gamasutra.com/view/feature/4286/game_ui_discoveries_what_players_.php?print=1)
+
+
+## CUDA
+- [WebCUDA Report](http://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/competition/r2jitu.com/418/final_report.pdf)
