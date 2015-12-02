@@ -3,6 +3,9 @@
 - [chalk](https://www.npmjs.com/package/chalk) (命令行颜色输出)
 - [green](https://www.npmjs.com/package/green) (命令行参数解析)
 
+- [shelljs](调用系统命令)
+- [yargs](https://www.npmjs.com/package/yargs)(命令行参数解析)
+
 ### 日常数据处理
 
 - [color](https://www.npmjs.com/package/color) (颜色)
