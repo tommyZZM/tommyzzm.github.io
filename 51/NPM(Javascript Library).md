@@ -9,11 +9,16 @@
 ### 日常数据处理
 
 - [color](https://www.npmjs.com/package/color) (颜色)
-- [dateformat]()
+- [dateformat](https://www.npmjs.com/package/dateformat)
+- [extend](https://www.npmjs.com/package/extend)(普通合并)
+- [deep-extend](https://www.npmjs.com/package/deep-extend)(文艺合并)
+- [cheerio](https://www.npmjs.com/package/cheerio)(HTML处理)
 
 ### 异步
 
 - [async](https://www.npmjs.com/package/async) (异步流程控制)
+- [q](https://www.npmjs.com/package/q)(Promise)
+- [bluebird](https://www.npmjs.com/package/bluebird)(Promise)
 
 ### 编辑
 
