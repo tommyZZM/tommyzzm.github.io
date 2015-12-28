@@ -2,8 +2,7 @@
 
 - [chalk](https://www.npmjs.com/package/chalk) (命令行颜色输出)
 - [green](https://www.npmjs.com/package/green) (命令行参数解析)
-
-- [shelljs](调用系统命令)
+- [shelljs](https://www.npmjs.com/package/shelljs)(调用系统命令)
 - [yargs](https://www.npmjs.com/package/yargs)(命令行参数解析)
 
 ### 日常数据处理
@@ -12,7 +11,13 @@
 - [dateformat](https://www.npmjs.com/package/dateformat)
 - [extend](https://www.npmjs.com/package/extend)(普通合并)
 - [deep-extend](https://www.npmjs.com/package/deep-extend)(文艺合并)
-- [cheerio](https://www.npmjs.com/package/cheerio)(HTML处理)
+- [cheerio](https://www.npmjs.com/package/cheerio)(HTML解析与处理)
+
+
+### 路径
+- [slash](https://www.npmjs.com/package/slash)(标准化路径)
+- [multimatch](https://www.npmjs.com/package/multimatch)(匹配路径)
+- [is-absolute-url](https://www.npmjs.com/package/is-absolute-url)(判断url是否绝对)
 
 ### 异步
 
