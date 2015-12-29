@@ -1,4 +1,4 @@
-### CLI
+﻿### CLI
 
 - [chalk](https://www.npmjs.com/package/chalk) (命令行颜色输出)
 - [green](https://www.npmjs.com/package/green) (命令行参数解析)
@@ -12,6 +12,7 @@
 - [extend](https://www.npmjs.com/package/extend)(普通合并)
 - [deep-extend](https://www.npmjs.com/package/deep-extend)(文艺合并)
 - [cheerio](https://www.npmjs.com/package/cheerio)(HTML解析与处理)
+- [character-parser](https://www.npmjs.com/package/character-parser)(字符串解析与分析)
 
 
 ### 路径
