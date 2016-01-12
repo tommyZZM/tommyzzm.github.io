@@ -6,6 +6,7 @@
 - [sigma.js](https://github.com/jacomyal/sigma.js/) (点阵传播图表库)
 - [highcharts](https://github.com/highcharts/highcharts) (傻瓜式SVG图表库)
 - [vis](https://github.com/almende/vis) (another chart library at all!)
+- [chart.js](https://github.com/nnnick/Chart.js)(...)
 
 ### 萌萌哒
 
