@@ -1,0 +1,1 @@
+- [移动图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
