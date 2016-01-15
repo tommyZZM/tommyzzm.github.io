@@ -8,3 +8,6 @@
 ## Fulx
 - [Flux 傻瓜教程](http://zhuanlan.zhihu.com/FrontendMagazine/19900243)
 - [Async requests (AJAX) with React.js and Flux, revisited.](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
+
+## Vue
+- [Vue.jsにreduxを載せた話](http://blog.mmmcorp.co.jp/blog/2015/12/03/vue-with-redux/)
