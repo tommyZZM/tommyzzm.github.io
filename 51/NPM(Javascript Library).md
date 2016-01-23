@@ -1,11 +1,14 @@
-﻿### CLI
+﻿
 
+### 日常数据处理
+
+##### CLI
 - [chalk](https://www.npmjs.com/package/chalk) (命令行颜色输出)
 - [green](https://www.npmjs.com/package/green) (命令行参数解析)
 - [shelljs](https://www.npmjs.com/package/shelljs)(调用系统命令)
 - [yargs](https://www.npmjs.com/package/yargs)(命令行参数解析)
 
-### 日常数据处理
+##### 通用
 
 - [color](https://www.npmjs.com/package/color) (颜色)
 - [dateformat](https://www.npmjs.com/package/dateformat)
@@ -13,7 +16,7 @@
 - [deep-extend](https://www.npmjs.com/package/deep-extend)(文艺合并)
 - [cheerio](https://www.npmjs.com/package/cheerio)(HTML解析与处理)
 - [character-parser](https://www.npmjs.com/package/character-parser)(字符串解析与分析)
-
+- [query-string](https://www.npmjs.com/package/query-string)(URL请求参数分析)
 
 ### 路径
 - [slash](https://www.npmjs.com/package/slash)(标准化路径)
