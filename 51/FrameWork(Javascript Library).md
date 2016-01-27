@@ -12,6 +12,7 @@
 ### 实用DOM操作轮子
 - [Sortable](https://github.com/RubaXa/Sortable) ([演示](http://rubaxa.github.io/Sortable/)) (可拖放排序分组库)
 - [IScroll](https://github.com/cubiq/iscroll) ([官网](http://cubiq.org/iscroll-5)) (轻量级列表)
+- [Swiper](https://github.com/nolimits4web/Swiper) (内容滑动)
 
 ### 来自鸡汤
 - [不可错过的javascript迷你库](http://yanhaijing.com/js/2015/12/29/mini-js-lib/)
