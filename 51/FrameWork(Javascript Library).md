@@ -13,6 +13,9 @@
 - [Sortable](https://github.com/RubaXa/Sortable) ([演示](http://rubaxa.github.io/Sortable/)) (可拖放排序分组库)
 - [IScroll](https://github.com/cubiq/iscroll) ([官网](http://cubiq.org/iscroll-5)) (轻量级列表)
 
+### 来自鸡汤
+- [不可错过的javascript迷你库](http://yanhaijing.com/js/2015/12/29/mini-js-lib/)
+
 ### 萌萌哒
 
 - [p5.js](https://github.com/processing/p5.js)(它是一个使艺术家、设计师、教育工作者和初学者等都能够进行编码的JavaScript库)
