@@ -15,7 +15,7 @@
 - [Swiper](https://github.com/nolimits4web/Swiper) (内容滑动)
 
 ### 实用功能
-- [feature.js](https://github.com/viljamis/feature.js/) (建议浏览器常用特性检测工具)
+- [feature.js](https://github.com/viljamis/feature.js/) (主流浏览器常见特性检测工具)
 
 ### 来自鸡汤
 - [不可错过的javascript迷你库](http://yanhaijing.com/js/2015/12/29/mini-js-lib/)
