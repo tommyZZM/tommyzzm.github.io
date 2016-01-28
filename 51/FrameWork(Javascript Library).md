@@ -13,6 +13,10 @@
 - [Sortable](https://github.com/RubaXa/Sortable) ([演示](http://rubaxa.github.io/Sortable/)) (可拖放排序分组库)
 - [IScroll](https://github.com/cubiq/iscroll) ([官网](http://cubiq.org/iscroll-5)) (轻量级列表)
 - [Swiper](https://github.com/nolimits4web/Swiper) (内容滑动)
+- 
+
+### 实用功能
+- [feature.js](https://github.com/viljamis/feature.js/) (建议浏览器常用特性检测工具)
 
 ### 来自鸡汤
 - [不可错过的javascript迷你库](http://yanhaijing.com/js/2015/12/29/mini-js-lib/)
