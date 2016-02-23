@@ -18,6 +18,10 @@
 - [character-parser](https://www.npmjs.com/package/character-parser)(字符串解析与分析)
 - [query-string](https://www.npmjs.com/package/query-string)(URL请求参数分析)
 
+##### 文本处理/代码处理
+
+- [detective](https://www.npmjs.com/package/detective) (分析javascript代码文本,获得某函数及其参数的位置信息)
+
 ### 路径
 - [slash](https://www.npmjs.com/package/slash)(标准化路径)
 - [multimatch](https://www.npmjs.com/package/multimatch)(匹配路径)
