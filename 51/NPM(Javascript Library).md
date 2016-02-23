@@ -1,4 +1,4 @@
-﻿
+﻿## NPM 实用包
 
 ### 日常数据处理
 
@@ -22,6 +22,22 @@
 - [slash](https://www.npmjs.com/package/slash)(标准化路径)
 - [multimatch](https://www.npmjs.com/package/multimatch)(匹配路径)
 - [is-absolute-url](https://www.npmjs.com/package/is-absolute-url)(判断url是否绝对)
+
+````javascript
+  var regexIsUrlAbsolute = /(^(?:\w+:)\/\/)/ ;
+  var regexIsUrlBase64 = /data:(\w+)\/(\w+);/
+  function isUrlAbsolute (url) {
+      if (typeof url !== 'string') {
+          throw new TypeError('Expected a string');
+      }
+  
+      if(regexIsUrlAbsolute.test(url)){
+          return true;
+      }
+
+      return !!regexIsUrlBase64.test(url); 
+  }
+````
 
 ### 异步
 
