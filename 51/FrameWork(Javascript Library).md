@@ -20,6 +20,10 @@
 ### 来自鸡汤
 - [不可错过的javascript迷你库](http://yanhaijing.com/js/2015/12/29/mini-js-lib/)
 
+### 手势/移动手势
+- [hammer.js](https://github.com/hammerjs/hammer.js)
+- [touch.js](http://touch.code.baidu.com/)
+
 ### 萌萌哒
 
 - [p5.js](https://github.com/processing/p5.js) (它是一个使艺术家、设计师、教育工作者和初学者等都能够进行编码的JavaScript库)
