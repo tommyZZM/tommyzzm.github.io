@@ -7,6 +7,10 @@
 - [green](https://www.npmjs.com/package/green) (命令行参数解析)
 - [shelljs](https://www.npmjs.com/package/shelljs)(调用系统命令)
 - [yargs](https://www.npmjs.com/package/yargs)(命令行参数解析)
+- 
+##### pipe(stream)工具包
+- [streamifier](https://www.npmjs.com/package/streamifier) 字符串/buffer=>stream
+- [through2](https://www.npmjs.com/package/through2) 
 
 ##### 通用
 
