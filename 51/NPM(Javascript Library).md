@@ -27,6 +27,10 @@
 - [babel-core](https://www.npmjs.com/package/babel-core) (最强大的javascript语法解析处理引擎,基于Babylon(Acorn的fork))
 - [detective](https://www.npmjs.com/package/detective) (基于Acorn,分析javascript代码文本,获得某函数及其参数的位置信息)
 
+##### 类型判断
+- [is-stream](https://www.npmjs.com/package/is-stream) 是否stream对象
+- [is-promise](https://www.npmjs.com/package/is-promise) 是否Promise对象
+
 ##### 图片/素材处理
 - [node-pngquant-native](https://github.com/xiangshouding/node-pngquant-native) (pngquant native binding for node.js)
 
