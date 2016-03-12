@@ -7,10 +7,11 @@
 - [green](https://www.npmjs.com/package/green) (命令行参数解析)
 - [shelljs](https://www.npmjs.com/package/shelljs)(调用系统命令)
 - [yargs](https://www.npmjs.com/package/yargs)(命令行参数解析)
-- 
+
 ##### pipe(stream)工具包
 - [streamifier](https://www.npmjs.com/package/streamifier) 字符串/buffer=>stream
 - [through2](https://www.npmjs.com/package/through2) 
+- [merge-stream](https://www.npmjs.com/package/merge-stream) 合并多个stream
 
 ##### 通用
 
@@ -23,8 +24,11 @@
 - [query-string](https://www.npmjs.com/package/query-string)(URL请求参数分析)
 
 ##### 文本处理/代码处理
+- [babel-core](https://www.npmjs.com/package/babel-core) (最强大的javascript语法解析处理引擎,基于Babylon(Acorn的fork))
+- [detective](https://www.npmjs.com/package/detective) (基于Acorn,分析javascript代码文本,获得某函数及其参数的位置信息)
 
-- [detective](https://www.npmjs.com/package/detective) (分析javascript代码文本,获得某函数及其参数的位置信息)
+##### 图片/素材处理
+- [node-pngquant-native](https://github.com/xiangshouding/node-pngquant-native) (pngquant native binding for node.js)
 
 ### 路径
 - [slash](https://www.npmjs.com/package/slash)(标准化路径)
