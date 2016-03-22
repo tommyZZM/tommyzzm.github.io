@@ -12,6 +12,7 @@
 - [streamifier](https://www.npmjs.com/package/streamifier) 字符串/buffer=>stream
 - [through2](https://www.npmjs.com/package/through2) 
 - [merge-stream](https://www.npmjs.com/package/merge-stream) 合并多个stream
+- [stream-combiner](https://www.npmjs.com/package/stream-combiner) 首尾相连合并多个stream
 
 ##### 通用
 
