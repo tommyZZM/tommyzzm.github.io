@@ -1,6 +1,6 @@
 ## 张展铭的个人简历
 
-#### 个人信息
+### 个人信息
 
 姓名:张展铭
 
@@ -24,7 +24,7 @@ Steam:http://steamcommunity.com/id/tommyZZM/home
 
 英语水平：四级，能熟练通过科学手段阅读或书写英文
 
-#### 个人简介
+### 个人简介
 
 目前是善良友爱的前端工程师一枚，三年以上的Web开发经验，有中型HTML5游戏开发经验（约2W+行typescript和javascript），
 参与维护过中型规模的网站，对常用前端框架，前端开发技术，项目构建有一定的经验和独到见解。
@@ -33,7 +33,7 @@ Steam:http://steamcommunity.com/id/tommyZZM/home
 
 拥有超强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 
-#### 技术能力
+### 技术能力
 
 - 专注并热爱于Web前端开发，熟练掌握使用前端技术来搭建一个Web应用/网站，对于我来说代码只是作画工具。
 - 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用，能熟练正确使用ES5、ES6各项特性。
@@ -43,7 +43,8 @@ Steam:http://steamcommunity.com/id/tommyZZM/home
 #### 业余爱好
 
 - 绘画
-- 爬山
+- （去）图书馆学习
+- 爬山（白云山）
 - 羽毛球
 
 #### 个人经历
@@ -53,10 +54,28 @@ Steam:http://steamcommunity.com/id/tommyZZM/home
 - 学习ActionScript3.0 并参与了一些学校和企业的项目一些Flash项目的开发
 - 然后转投Javascript，并且在接下来的过程中不断专研提升自己的技术
 
-#### 作品
+### 作品
 
-- HTML5斗地主游戏(微信打开)
-![https://www.pkddz.com](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARgAAAEYCAIAAAAI7H7bAAAFO0lEQVR4nO3dUW4bOxAAQekh97+y3w2IgGmPZ62qXyPSaqUGPybkvr++vl7Av/nvpy8AfgMhQUBIEBASBIQEASFBQEgQEBIE/hz+9n6/x64jdzdovvvIk++VO1x8fjeWfOQ752/ZigQBIUFASBAQEgSEBAEhQUBIEBASBE4D2YMl+2r3D/jyK1wy7sx/AE//RVmRICAkCAgJAkKCgJAgICQICAkCQoLA5UD2YHIEeSe/wsMLTs5Pl8w0c4+4UVYkCAgJAkKCgJAgICQICAkCQoKAkCDQD2Qf7W5+umTX6iMGl7+VFQkCQoKAkCAgJAgICQJCgoCQICAkCHziQPZuzjh5SO+SR9nezaA/kxUJAkKCgJAgICQICAkCQoKAkCAgJAj0A9lHj+r2bzLNh6T5GPe3Pl72zIoEASFBQEgQEBIEhAQBIUFASBAQEgQuB7KTJ/Hm8sOH8391sP8K7zz6F/WyIkFCSBAQEgSEBAEhQUBIEBASBIQEgfcjth9uMHmMcH4Zd/w2/p4VCQJCgoCQICAkCAgJAkKCgJAgICQIjA5k85nm5At+4HRy/91YMiV/WZEgISQICAkCQoKAkCAgJAgICQJCgkA/kF0yI1syTFxyjPCSL+Vg8gq/47dhRYKAkCAgJAgICQJCgoCQICAkCAgJAqeB7P5nre6fuk6anNVO2v8DeFmRICEkCAgJAkKCgJAgICQICAkCQoLAn8PflhxLe7B/k+nBoy/+YP/P5uD6zluRICAkCAgJAkKCgJAgICQICAkCQoLAaSA7ORbc/6DYyfnpkpnmBx6P7Mhi+ElCgoCQICAkCAgJAkKCgJAgICQIXO6QnRySTr7gwZJpci5/r/xuPOIQbCsSBIQEASFBQEgQEBIEhAQBIUFASBA4DWT3WzIknbyMyQnv5EHHj36I8MuKBAkhQUBIEBASBIQEASFBQEgQEBIERgey+7c6To4gD/KL/8AH4A7Paq1IEBASBIQEASFBQEgQEBIEhAQBIUHgvWSytuQF7ywZQd5ZcueXjN09QxZ+kpAgICQICAkCQoKAkCAgJAgICQIPOLJ4yezvzpJn4+bTySXz7jt2yMJSQoKAkCAgJAgICQJCgoCQICAkCFwOZH/r1tQ7k5sxJ89bfvTtHd48a0WCgJAgICQICAkCQoKAkCAgJAgICQL9Dtklx+1OPkN2cifpkqfBHuT38O5f5bPaMysSBIQEASFBQEgQEBIEhAQBIUFASBC4fIbswf4XfPR7LTmleXLsnrNDFpYSEgSEBAEhQUBIEBASBIQEASFB4DSQ/a3Mhb/V/k3BB3bIwk8SEgSEBAEhQUBIEBASBIQEASFB4HRk8f7Z38GSh5xOWnKA88GSJ+p+x/dlRYKAkCAgJAgICQJCgoCQICAkCAgJApfPkF0ygpzc6zr5aNR8frrk+5rcPDv8ka1IEBASBIQEASFBQEgQEBIEhAQBIUHgciB7MHl+750lY9zDCy6Zn955xAnDOSsSBIQEASFBQEgQEBIEhAQBIUFASBDoB7L8uyVPuZ0cd+Z7XYc/shUJAkKCgJAgICQICAkCQoKAkCAgJAh84kB28sjiO/tHkI9+r3xH88uKBAkhQUBIEBASBIQEASFBQEgQEBIE+oHsnlNkL+RPaN0/xs3fa8n23uHvy4oEASFBQEgQEBIEhAQBIUFASBAQEgTeS4aJuSXH7ebykfHBktHqneH/GGBFgoCQICAkCAgJAkKCgJAgICQICAkCp4Es8JesSBAQEgSEBAEhQUBIEBASBIQEASFBQEgQ+B+47Dw2Mv04igAAAABJRU5ErkJggg==)
-HTML5斗地主游戏，本人参与了前端部分的主要工作。
+- HTML5二人斗地主游戏(微信打开)
 
+[![HTML5二人斗地主游戏](http://7xjjnu.com1.z0.glb.clouddn.com/pkddz-qr.png)](https://www.pkddz.com)
 
+HTML5斗地主游戏，本人参与了该项目前端部分的主要工作。
+
+- [Alcedo(翠鸟)](https://github.com/tommyZZM/Alcedo)
+
+一个基于TypeScript的HTML5游戏框架
+
+Demo演示，http://tommyzzm.github.io/ColorJet/，亮点是使用了DOM作为游戏UI，而canvas负责渲染游戏场景
+
+毕业设计，算是阅读Egret和Pixi源码以后的心血来潮之作。
+
+- [OpenGL-SPH-fulid（C++）](https://github.com/tommyZZM/OpenGL-SPH-fulid)
+
+演示地址：http://www.bilibili.com/video/av627760/
+
+如果要编译的话除了OpenGL的库之外还要引入freetype，环境VC++2010
+
+- [AircraftMesumDemo (ActionScript3.0 | Away3D)](https://github.com/tommyZZM/away3d-aircraftmuseumdemo)
+
+大三学习Away3D(ActionScript3.0 的一个3D框架)时写的demo
