@@ -2,27 +2,27 @@
 
 ## 个人信息
 
-姓名:张展铭
+**姓名**:张展铭
 
-性别:男
+**性别**:男
 
-出生年月:1993年1月12日
+**出生年月**:1993年1月12日
 
-籍贯:广州
+**籍贯**:广州
 
-学校专业: 广东工业大学 数字媒体技术
+**学校专业**: 广东工业大学 数字媒体技术
 
-Email:tommy34012@gmail.com
+**Email**:tommy34012@gmail.com
 
-github:https://github.com/tommyZZM
+**github**:https://github.com/tommyZZM
 
-npm:https://www.npmjs.com/~tommyzzm
+**npm**:https://www.npmjs.com/~tommyzzm
 
-Segmentfault:https://segmentfault.com/u/tommyzzm
+**Segmentfault**:https://segmentfault.com/u/tommyzzm
 
-Blog:[https://tommyzzm.github.io](https://github.com/tommyZZM/tommyzzm.github.io)
+**Blog**:[https://tommyzzm.github.io](https://github.com/tommyZZM/tommyzzm.github.io)
 
-Steam:http://steamcommunity.com/id/tommyZZM/home
+**Steam**:http://steamcommunity.com/id/tommyZZM/home
 
 英语水平：四级，能熟练通过科学手段阅读或书写英文
 
@@ -49,6 +49,7 @@ Steam:http://steamcommunity.com/id/tommyZZM/home
 - （去）图书馆学习
 - 爬山（白云山）
 - 羽毛球
+- steam
 
 ## 个人经历
 
