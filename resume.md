@@ -84,7 +84,7 @@ Demo演示，http://tommyzzm.github.io/ColorJet/，亮点是使用了DOM作为�
 
 = =好吧，我们还是用[yo](https://www.npmjs.com/package/yo)吧;
 
-#### [babel-plugin-cook-string (Node.js | Babel | 前端工程)](https://github.com/gfes/babel-plugin-cook-string)
+#### [babel-plugin-cook-string (Node.js | Babel | Ecmascript6 | 前端工程)](https://github.com/gfes/babel-plugin-cook-string)
 
 Babel插件,预处理字符串,例如压缩html,
 
@@ -100,7 +100,7 @@ Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖�
 
 Browserify plugin for Generate an extra chunk, which contains common modules shared between entry points.
 
-#### [OpenGL-SPH-fulid（C++）](https://github.com/tommyZZM/OpenGL-SPH-fulid)
+#### [OpenGL-SPH-fulid（OpenGL | C++）](https://github.com/tommyZZM/OpenGL-SPH-fulid)
 
 演示地址：http://www.bilibili.com/video/av627760/
 
@@ -108,7 +108,7 @@ Browserify plugin for Generate an extra chunk, which contains common modules sha
 
 如果要编译的话除了OpenGL的库之外还要引入freetype，环境VC++2010;
 
-#### [tommyGL_Lab_Type3（C++）](https://github.com/tommyZZM/tommyGL_Lab_Type3)
+#### [tommyGL_Lab_Type3（OpenGL | C++）](https://github.com/tommyZZM/tommyGL_Lab_Type3)
 
 学习Win32时搞的OpenGL学习框架，没继续搞了，好像会花屏，反正别编译运行！
 
