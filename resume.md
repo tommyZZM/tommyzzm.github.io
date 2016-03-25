@@ -84,17 +84,19 @@ Demo演示，http://tommyzzm.github.io/ColorJet/，亮点是使用了DOM作为�
 
 = =好吧，我们还是用[yo](https://www.npmjs.com/package/yo)吧;
 
-#### [babel-plugin-cook-string](https://github.com/gfes/babel-plugin-cook-string)
+#### [babel-plugin-cook-string (Node.js | Babel | 前端工程)](https://github.com/gfes/babel-plugin-cook-string)
 
 Babel插件,预处理字符串,例如压缩html,
 
 **!已经弃用**,下面的babel-front-end-ify继承了类似的功能
 
-#### [babel-front-end-ify](https://github.com/gfes/babel-front-end-ify)
+#### [babel-front-end-ify (Node.js | Browserify | gulp | 前端工程)](https://github.com/gfes/babel-front-end-ify)
 
 Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖重定向, 模板文本预处理, 静态资源依赖, 懒依赖json ... )
 
-#### [common-chunk-ify](https://github.com/gfes/common-chunk-ify)
+适合配合gulp一起使用
+
+#### [common-chunk-ify (Node.js | Browserify | 前端工程)](https://github.com/gfes/common-chunk-ify)
 
 Browserify plugin for Generate an extra chunk, which contains common modules shared between entry points.
 
