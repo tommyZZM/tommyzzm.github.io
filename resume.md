@@ -60,13 +60,13 @@
 
 ## 作品
 
-#### HTML5二人斗地主游戏 TypeScript (微信打开)
+#### 手机端HTML5二人斗地主游戏 TypeScript (微信)
 
 [![HTML5二人斗地主游戏 TypeScript](http://7o51mi.com1.z0.glb.clouddn.com/pkddz-qr-sm.png)](https://www.pkddz.com)
 
 HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
-#### [Alcedo(翠鸟) TypeScript](https://github.com/tommyZZM/Alcedo)
+#### [Alcedo(翠鸟) TypeScript | canvas](https://github.com/tommyZZM/Alcedo)
 
 一个基于TypeScript的HTML5游戏框架
 
