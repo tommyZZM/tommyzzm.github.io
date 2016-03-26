@@ -41,7 +41,7 @@
 - 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用，能熟练正确使用ES5、ES6各项特性;
 - 了解Canvas和WebGL等一定图形渲染知识，掌握常用canvas框架基本工作原理;
 - 熟练使用Node.js进行各种命令行工具，自动化工具开发，了解一定的单元测试知识;
-- 利用搜索引擎解决问题能力MAX;
+- 利用搜索引擎（google）解决问题能力MAX;
 - Adobe Photoshop \ Adobe Illustrator \ MS Visio 80%~90% ;
 
 ## 个人经历
