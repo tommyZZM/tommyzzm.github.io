@@ -60,14 +60,6 @@
 
 HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
-#### [Alcedo(翠鸟) TypeScript | canvas](https://github.com/tommyZZM/Alcedo)
-
-一个基于TypeScript的HTML5游戏框架
-
-[Demo演示](http://tommyzzm.github.io/ColorJet/)，亮点是使用了DOM作为游戏UI，而canvas负责渲染游戏场景;
-
-毕业设计，算是阅读Egret和Pixi源码以后的心血来潮之作;
-
 #### [easy-imagemin (Node.js CLI Tool)](https://github.com/tommyZZM/easy-imagemin)
 
 简单的（基于Node.js）命令行压缩图片工具，轻松压缩文件夹里所有的图片，之前单位的小伙伴压缩大量图片的时候用。因为是命令行工具所以比tinypng方便;
@@ -93,6 +85,14 @@ Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖�
 #### [common-chunk-ify (Node.js | Browserify | 前端工程)](https://github.com/gfes/common-chunk-ify)
 
 Browserify plugin for Generate an extra chunk, which contains common modules shared between entry points.
+
+#### [Alcedo(翠鸟) TypeScript | canvas](https://github.com/tommyZZM/Alcedo)
+
+一个基于TypeScript的HTML5游戏框架
+
+[Demo演示](http://tommyzzm.github.io/ColorJet/)，亮点是使用了DOM作为游戏UI，而canvas负责渲染游戏场景;
+
+毕业设计，算是阅读Egret和Pixi源码以后的心血来潮之作;
 
 #### [OpenGL-SPH-fulid（OpenGL | C++）](https://github.com/tommyZZM/OpenGL-SPH-fulid)
 
