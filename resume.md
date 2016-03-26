@@ -70,9 +70,9 @@ HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
 #### [babel-plugin-cook-string (Node.js | Babel | 前端工程)](https://github.com/gfes/babel-plugin-cook-string)
 
-Babel插件,预处理字符串,例如压缩html,
+第一个写的Babel插件,预处理字符串,例如压缩html,
 
-**!已经弃用**,下面的babel-front-end-ify继承了类似的功能
+**!已经弃用**,因为下面的babel-front-end-ify继承了这样的功能
 
 #### [babel-front-end-ify (Node.js | Browserify | Babel | gulp | 前端工程)](https://github.com/gfes/babel-front-end-ify)
 
