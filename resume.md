@@ -40,7 +40,7 @@
 - 专注并热爱于Web前端开发，熟练掌握使用前端技术来搭建一个Web应用/网站，对于我来说代码只是作画工具;
 - 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用，能熟练正确使用ES5、ES6各项特性;
 - 了解Canvas和WebGL等一定图形渲染知识，掌握常用canvas框架基本工作原理;
-- 熟练使用Node.js进行各种命令行工具、自动化工具开发;
+- 熟练使用Node.js进行各种命令行工具，自动化工具开发，了解一定的单元测试知识;
 - Adobe Photoshop \ Adobe Illustrator \ MS Visio 80%~90% ;
 
 ## 业余爱好
