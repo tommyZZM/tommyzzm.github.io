@@ -77,7 +77,7 @@ HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
 #### [easy-imagemin (Node.js CLI Tool)](https://github.com/tommyZZM/easy-imagemin)
 
-简单的（基于Node.js）命令行压缩图片工具，轻松压缩文件夹里所有的图片;
+简单的（基于Node.js）命令行压缩图片工具，轻松压缩文件夹里所有的图片，之前单位的小伙伴压缩大量图片的时候用。因为是命令行工具所以比tinypng方便;
 
 #### [git-template (Node.js CLI Tool)](https://github.com/tommyZZM/git-template)
 
