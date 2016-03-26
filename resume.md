@@ -41,15 +41,8 @@
 - 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用，能熟练正确使用ES5、ES6各项特性;
 - 了解Canvas和WebGL等一定图形渲染知识，掌握常用canvas框架基本工作原理;
 - 熟练使用Node.js进行各种命令行工具，自动化工具开发，了解一定的单元测试知识;
+- 利用搜索引擎解决问题能力MAX;
 - Adobe Photoshop \ Adobe Illustrator \ MS Visio 80%~90% ;
-
-## 业余爱好
-
-- 绘画
-- （去）图书馆学习
-- 爬山（白云山）
-- 羽毛球
-- steam
 
 ## 个人经历
 
@@ -120,6 +113,14 @@ Browserify plugin for Generate an extra chunk, which contains common modules sha
 #### [AircraftMesumDemo (ActionScript3.0 | Away3D)](https://github.com/tommyZZM/away3d-aircraftmuseumdemo)
 
 大三学习Away3D(ActionScript3.0 的一个3D框架)时写的demo;
+
+## 业余爱好
+
+- 绘画
+- （去）图书馆学习
+- 爬山（白云山）
+- 羽毛球
+- steam
 
 ## License
 
