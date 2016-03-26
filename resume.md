@@ -71,7 +71,7 @@ HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
 一个基于TypeScript的HTML5游戏框架
 
-Demo演示，http://tommyzzm.github.io/ColorJet/，亮点是使用了DOM作为游戏UI，而canvas负责渲染游戏场景;
+[Demo演示](http://tommyzzm.github.io/ColorJet/)，亮点是使用了DOM作为游戏UI，而canvas负责渲染游戏场景;
 
 毕业设计，算是阅读Egret和Pixi源码以后的心血来潮之作;
 
