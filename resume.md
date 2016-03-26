@@ -1,4 +1,4 @@
-## 张展铭个人简历
+## 张展铭[个人简历](https://github.com/tommyZZM/tommyzzm.github.io/blob/master/resume.md)
 
 ## 个人信息
 
@@ -14,15 +14,15 @@
 
 **Email**:tommy34012@gmail.com
 
-**github**:https://github.com/tommyZZM
+**github**:[https://github.com/tommyZZM](https://github.com/tommyZZM)
 
-**npm**:https://www.npmjs.com/~tommyzzm
+**npm**:[https://www.npmjs.com/~tommyzzm](https://www.npmjs.com/~tommyzzm)
 
-**Segmentfault**:https://segmentfault.com/u/tommyzzm
+**Segmentfault**:[https://segmentfault.com/u/tommyzzm](https://segmentfault.com/u/tommyzzm)
 
 **Blog**:[https://tommyzzm.github.io](https://github.com/tommyZZM/tommyzzm.github.io)
 
-**Steam**:http://steamcommunity.com/id/tommyZZM/home
+**Steam**:[http://steamcommunity.com/id/tommyZZM/home](http://steamcommunity.com/id/tommyZZM/home)
 
 英语水平：四级，能熟练通过科学手段阅读或书写英文
 
