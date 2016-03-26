@@ -68,8 +68,6 @@ HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
 把一个github仓库作为种子项目的工具;
 
-= =好吧，我们还是用[yo](https://www.npmjs.com/package/yo)吧;
-
 #### [babel-plugin-cook-string (Node.js | Babel | 前端工程)](https://github.com/gfes/babel-plugin-cook-string)
 
 Babel插件,预处理字符串,例如压缩html,
@@ -113,6 +111,8 @@ Browserify plugin for Generate an extra chunk, which contains common modules sha
 #### [AircraftMesumDemo (ActionScript3.0 | Away3D)](https://github.com/tommyZZM/away3d-aircraftmuseumdemo)
 
 大三学习Away3D(ActionScript3.0 的一个3D框架)时写的demo;
+
+#### 更多作品...
 
 ## 业余爱好
 
