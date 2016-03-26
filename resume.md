@@ -62,7 +62,7 @@ HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
 #### [easy-imagemin (Node.js CLI Tool)](https://github.com/tommyZZM/easy-imagemin)
 
-简单的（基于Node.js）命令行压缩图片工具，轻松压缩文件夹里所有的图片，
+简单的（基于Node.js）命令行压缩图片工具，轻松压缩文件夹里所有的图片;
 
 之前单位的小伙伴压缩大量图片的时候用。因为是命令行工具所以比tinypng方便;
 
@@ -72,19 +72,19 @@ HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
 #### [babel-plugin-cook-string (Node.js | Babel | 前端工程)](https://github.com/gfes/babel-plugin-cook-string)
 
-第一个写的Babel插件,预处理字符串,例如压缩html, **!已经弃用**,因为下面的babel-front-end-ify继承了这样的功能
+第一个写的Babel插件，预处理字符串，例如压缩html， **!已经弃用**，因为下面的babel-front-end-ify继承了这样的功能;
 
 #### [babel-front-end-ify (Node.js | Browserify | Babel | gulp | 前端工程)](https://github.com/gfes/babel-front-end-ify)
 
-Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖重定向, 模板文本预处理, 静态资源依赖, 懒依赖json ... )
+Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖重定向, 模板文本预处理, 静态资源依赖, 懒依赖json ... );
 
-适合配合gulp一起灵活使用
+适合配合gulp一起灵活使用;
 
 #### [common-chunk-ify (Node.js | Browserify | 前端工程)](https://github.com/gfes/common-chunk-ify)
 
-提取Browserify打包过程中的公共模块，参考了`factor-bundle`和`webpack的commonChunkPlugin`
+提取Browserify打包过程中的公共模块，参考了`factor-bundle`和`webpack的commonChunkPlugin`;
 
-，但是更加灵活，而且避免了污染全局环境的`require`字面量
+但是更加灵活，而且避免了污染全局环境的`require`字面量;
 
 #### [Alcedo(翠鸟) TypeScript | canvas](https://github.com/tommyZZM/Alcedo)
 
@@ -98,7 +98,7 @@ Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖�
 
 演示地址：http://www.bilibili.com/video/av627760/
 
-大二，游戏图形开发选修课**100分**之作
+大二，游戏图形开发选修课**100分**之作;
 
 如果要编译的话除了OpenGL的库之外还要引入freetype，环境VC++2010;
 
@@ -108,7 +108,7 @@ Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖�
 
 #### [PinCircle2 (ActionScript3.0 | Starling)](https://github.com/tommyZZM/PinCircle2)
 
-学习Starling和Adobe AIR写的手机端打砖块游戏，课程设计。
+学习Starling和Adobe AIR写的手机端打砖块游戏，课程设计;
 
 #### [AircraftMesumDemo (ActionScript3.0 | Away3D)](https://github.com/tommyZZM/away3d-aircraftmuseumdemo)
 
@@ -119,10 +119,10 @@ Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖�
 ## 业余爱好
 
 - 绘画
-- （去）图书馆学习
-- 爬山（白云山）
-- 羽毛球
-- steam
+- ,（去）图书馆学习
+- , 爬山（白云山）
+- , 羽毛球
+- , steam
 
 ## License
 
