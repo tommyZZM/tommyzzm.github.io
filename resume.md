@@ -60,6 +60,8 @@
 
 [![HTML5二人斗地主游戏 TypeScript](http://7o51mi.com1.z0.glb.clouddn.com/pkddz-qr-sm.png)](https://www.pkddz.com)
 
+[https://www.pkddz.com](https://www.pkddz.com) (微信打开)
+
 HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
 #### [easy-imagemin (Node.js CLI Tool)](https://github.com/tommyZZM/easy-imagemin)
