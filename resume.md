@@ -118,7 +118,7 @@ Browserify Babel 插件, 集成了一些对前端工程有益的功能( 依赖�
 
 大三学习Away3D(ActionScript3.0 的一个3D框架)时写的demo;
 
-#### [更多作品或贡献的开源项目](https://github.com/tommyZZM)...
+#### [更多](https://github.com/tommyZZM)...
 
 ## 业余爱好
 
