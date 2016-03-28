@@ -42,8 +42,8 @@
 - 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用，能熟练正确使用ES5、ES6各项特性，拥有React.js和Vue.js等前端技术开发经验;
 - 对前端工程组件化、静态资源管理和项目构建有一定实践和认识;
 - 熟练使用Node.js进行各种命令行工具，自动化工具开发，了解一定的单元测试知识（mocha）;
-- 掌握html和css的基础知识，了解常用预处理工具，有丰富的使用经验。
-- 利用搜索引擎和在线社区（google、stackoverflow）解决问题的能力;;
+- 掌握html和css的基础知识，了解常用预处理工具，有丰富的使用经验;
+- 利用搜索引擎和在线社区（google、stackoverflow）解决问题的能力;
 - 了解Canvas和WebGL等一定图形渲染知识，掌握常用canvas框架基本工作原理;
 - Adobe Photoshop \ Adobe Illustrator \ MS Visio 80%~90% ;
 
