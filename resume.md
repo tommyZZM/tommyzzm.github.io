@@ -59,9 +59,9 @@
 
 #### 手机端HTML5二人斗地主游戏 TypeScript (微信)
 
-[![HTML5二人斗地主游戏 TypeScript](http://7o51mi.com1.z0.glb.clouddn.com/pkddz-qr-sm.png)](https://www.pkddz.com)
+[![HTML5二人斗地主游戏 TypeScript](http://7o51mi.com1.z0.glb.clouddn.com/pkddz-qr-http-sm.png)](http://www.pkddz.com)
 
-[https://www.pkddz.com](https://www.pkddz.com) (微信打开)
+[http://www.pkddz.com](http://www.pkddz.com) (微信打开)
 
 HTML5斗地主游戏，本人参与了该项目前端部分的主要工作;
 
