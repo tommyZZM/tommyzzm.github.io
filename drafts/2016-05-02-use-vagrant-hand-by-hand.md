@@ -27,6 +27,24 @@
 vagrant box add <别名> <.box镜像路径>
 ```
 
+```
+cd <我的虚拟机目录>
+vagrant init
+
+# 设置Vagrantfile
+
+vagrant up
+```
+
+如果遇到`Vagrant error : Failed to mount folders in Linux guest`
+需要安装`vagrant-vbguest`插件
+
+```
+vagrant plugin install vagrant-vbguest
+```
+
+参考连接:[Vagrant error : Failed to mount folders in Linux guest](http://stackoverflow.com/questions/22717428/vagrant-error-failed-to-mount-folders-in-linux-guest)
+
 ### 开发环境
 
 常用的包,就直接`apt-get install`安装就好,要最好先使用`apt-get update`进行源更新
