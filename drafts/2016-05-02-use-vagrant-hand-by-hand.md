@@ -70,7 +70,7 @@ vagrant可以使用`synced_folder`进行和**宿主系统**进行目录同步
 config.vm.synced_folder "/e/local/share", "/home/vagrant/share"
 ```
 但是这里是有一个坑的,如果同步的目录使用了`symbolic link`,
-那么软链接在`windows`环境下将不能正常工作,回报出`Protocol error`
+那么软链接在`windows`环境下将不能正常工作,会报出`Protocol error`
 
 所以这里我选用了在虚拟机下搭建一个ftp服务器进行文件同步,以保持更好的兼容性
 
@@ -104,6 +104,10 @@ allow_writeable_chroot=YES
 通常来说为了保证开发环境的安全让用户访问默认目录就好啦
 
 然后添加一个用户`adduser --shell /bin/false --home /home/<user_name> <user_name>`
+
+ftp搭建完成后,就可以使用虚拟机的ftp地址进行文件同步.
+
+例如在webstorm中可以很方便的使用`Deployment`功能获得开发环境的文件进行编辑.
 
 #### nvm
 
