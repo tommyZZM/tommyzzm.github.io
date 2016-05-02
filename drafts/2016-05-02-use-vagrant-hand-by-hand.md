@@ -29,6 +29,7 @@ vagrant box add <别名> <.box镜像路径>
 ### 开发环境
 
 常用的包,就直接`apt-get install`安装就好,要最好先使用`apt-get update`进行源更新
+以下几个包需要特别说明一下.
 
 #### tmux
 ```
