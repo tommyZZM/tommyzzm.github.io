@@ -1,4 +1,4 @@
-﻿## NPM 实用包
+## NPM 实用包 / 轮子
 
 ### 日常数据处理
 
@@ -58,8 +58,11 @@
   }
 ````
 
-### 异步
+### 文件系统 file system
+- [path-exists](https://www.npmjs.com/package/path-exists) (路径是否存在)
+- [fs-extra](https://www.npmjs.com/package/fs-extra) (fs扩展)
 
+### 异步流程
 - [async](https://www.npmjs.com/package/async) (异步流程控制)
 - [q](https://www.npmjs.com/package/q)(Promise)
 - [bluebird](https://www.npmjs.com/package/bluebird)(Promise)
