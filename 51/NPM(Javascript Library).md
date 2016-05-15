@@ -24,6 +24,7 @@
 - [character-parser](https://www.npmjs.com/package/character-parser)(字符串解析与分析)
 - [query-string](https://www.npmjs.com/package/query-string)(URL请求参数分析)
 - [md5-hex](https://www.npmjs.com/package/md5-hex) (生成一段MD5,Hex)
+- [time-stamp](https://www.npmjs.com/package/time-stamp) (时间格式)
 
 ##### 文本处理/代码处理
 - [babel-core](https://www.npmjs.com/package/babel-core) (最强大的javascript语法解析处理引擎,基于Babylon(Acorn的fork))
