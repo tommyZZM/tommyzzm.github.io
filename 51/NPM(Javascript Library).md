@@ -15,7 +15,9 @@
 - [stream-combiner](https://www.npmjs.com/package/stream-combiner) 首尾相连合并多个stream
 
 ##### 通用
+- [is.js](https://github.com/pwnn/is.js) (类型校验)
 
+##### 杂项
 - [color](https://www.npmjs.com/package/color) (颜色)
 - [dateformat](https://www.npmjs.com/package/dateformat)
 - [extend](https://www.npmjs.com/package/extend)(普通合并)
