@@ -48,7 +48,7 @@ Program.body[0].kind = "var"
 
 生成器再将`AST`转换成代码
 
-```
+```javascript
 var a = 123;
 ```
 
