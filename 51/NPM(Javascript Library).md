@@ -29,6 +29,7 @@
 - [time-stamp](https://www.npmjs.com/package/time-stamp) (时间格式)
 
 ##### 文本处理/代码处理
+- [change-case](https://www.npmjs.com/package/change-case) (命名转换)
 - [babel-core](https://www.npmjs.com/package/babel-core) (最强大的javascript语法解析处理引擎,基于Babylon(Acorn的fork))
 - [detective](https://www.npmjs.com/package/detective) (基于Acorn,分析javascript代码文本,获得某函数及其参数的位置信息)
 - [strman](https://github.com/dleitee/strman) 字符串处理
