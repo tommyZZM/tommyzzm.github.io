@@ -3,9 +3,13 @@
 ### 微信jssdk
 
 - 微信jssdk授权，注意授权时候的url不能够和页面访问的url不一致。
-    - 域名需要添加到公众号后台的授权列表中。
     - 注意不要在wx.ready之前调用historyAPI修改url, 否则会导致`config:invalid signature`错误
-    - 如果WebApp中有使用hash路由进行场景管理，在url中至少需要添加一个空白`?`(queryString)，否则可能出现微信支付调用失败
+    - 如果WebApp中有使用hash路由进行场景管理，在url中至少需要添加一个空白`queryString`(`?`)，否则可能出现微信支付调用失败
+
+- 微信分享时hash路由有可能被服务器过滤掉
+    - 可以通过分享链接带上`queryString`(`?myHash=xxxx`), 然后
+        - 进行服务端重定向
+        - 或者页面跳转之后再读取url信息在页端跳转
 
 ### 开发调试
 
