@@ -13,4 +13,4 @@
 
 ### 开发调试
 
-- 静态资源和联调，把精通资源特别是`javascript`设置到一个前端可以快速更新的地址下，例如github的Page服务，coding的Page服务等
+- 静态资源和联调，把静态资源特别是`javascript`设置到一个前端可以快速更新的地址下，例如github的Page服务，coding的Page服务等
