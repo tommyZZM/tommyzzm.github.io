@@ -37,6 +37,7 @@
 ##### 类型判断
 - [is-stream](https://www.npmjs.com/package/is-stream) 是否stream对象
 - [is-promise](https://www.npmjs.com/package/is-promise) 是否Promise对象
+- [is-plain-object](https://www.npmjs.com/package/is-plain-object)
 
 ##### 图片/素材处理
 - [node-pngquant-native](https://github.com/xiangshouding/node-pngquant-native) (pngquant native binding for node.js)
