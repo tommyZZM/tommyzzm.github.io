@@ -7,6 +7,9 @@
 - [hammer.js](https://github.com/hammerjs/hammer.js)
 - [touch.js](http://touch.code.baidu.com/)
 
+### 媒体数据
+- [fex-team/webuploader](https://github.com/fex-team/webuploader)
+
 ### 图表
 - [d3](https://github.com/mbostock/d3) (d3.js)
 - [echarts](https://github.com/ecomfe/echarts) (本土化的可视化图表库)(百度)
