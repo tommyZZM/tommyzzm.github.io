@@ -35,7 +35,7 @@
 - [strman](https://github.com/dleitee/strman) 字符串处理
 
 ##### 类型判断
-- [is-primiveve](https://www.npmjs.com/package/is-primitive) 是否原始值
+- [is-primive](https://www.npmjs.com/package/is-primitive) 是否原始值
 - [is-stream](https://www.npmjs.com/package/is-stream) 是否stream对象
 - [is-promise](https://www.npmjs.com/package/is-promise) 是否Promise对象
 - [is-plain-object](https://www.npmjs.com/package/is-plain-object)
