@@ -5,8 +5,11 @@
 ##### CLI
 - [chalk](https://www.npmjs.com/package/chalk) (命令行颜色输出)
 - [green](https://www.npmjs.com/package/green) (命令行参数解析)
-- [shelljs](https://www.npmjs.com/package/shelljs)(调用系统命令)
+- [shelljs](https://www.npmjs.com/package/shelljs)(shelljs调用系统命令)
 - [yargs](https://www.npmjs.com/package/yargs)(命令行参数解析)
+- [rimraf](https://www.npmjs.com/package/rimraf) (rm -rf)
+- [shx](https://www.npmjs.com/package/shx) (shelljs命令行版本)
+- [cross-env](https://github.com/kentcdodds/cross-env) (命令行环境变量)
 
 ##### pipe(stream)工具包
 - [streamifier](https://www.npmjs.com/package/streamifier) 字符串/buffer=>stream
