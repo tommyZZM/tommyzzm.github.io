@@ -11,6 +11,9 @@
 - [shx](https://www.npmjs.com/package/shx) (shelljs命令行版本)
 - [cross-env](https://github.com/kentcdodds/cross-env) (命令行环境变量)
 
+##### 计时/时间显示
+- [pretty-hrtime](https://www.npmjs.com/package/pretty-hrtime) 把`process.hrtime()`转换成可读的时间（高精度的）
+
 ##### pipe(stream)工具包
 - [streamifier](https://www.npmjs.com/package/streamifier) 字符串/buffer=>stream
 - [through2](https://www.npmjs.com/package/through2) 
